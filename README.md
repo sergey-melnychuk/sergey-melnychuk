@@ -1,4 +1,8 @@
-### Hi there 👋
+### Sergey Melnychuk
+
+- 🦀 fun stuff I did in [Rust](https://sergey-melnychuk.github.io/about/)
+- ✍️ some random thoughts in [blog](https://sergey-melnychuk.github.io/)
+- 🥇 most up-to-date [CV](https://sergey-melnychuk.github.io/cv.pdf)
 
 <!--
 **sergey-melnychuk/sergey-melnychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
