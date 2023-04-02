@@ -1,7 +1,7 @@
 ### Sergey Melnychuk
 
 - 🦀 fun stuff I did in [Rust](https://sergey-melnychuk.github.io/about/)
-- ✍️ some random thoughts in [blog](https://sergey-melnychuk.github.io/)
+- ✍️ some thoughts in [blog](https://sergey-melnychuk.github.io/)
 - 🥇 most up-to-date [CV](https://sergey-melnychuk.github.io/cv.pdf)
 
 <!--
